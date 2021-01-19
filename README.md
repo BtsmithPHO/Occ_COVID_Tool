@@ -1,7 +1,7 @@
 # Occupational Risk of COVID-19 Datatool Code Repository
 #### Updated as of Jan, 19 2021
 For detailed information on the background, objectives, and data sources used in the tool, please refer to the Technical Document accessed via this link: 
-https://www.dropbox.com/s/69cmswjo91ynnec/occupational-occupational-exposure-covid-risk-tool-technical-notes-January-19-2021.pdf?dl=0
+https://www.dropbox.com/s/69cmswjo91ynnec/occupational-exposure-covid-risk-tool-technical-notes-January-19-2021.pdf?dl=0
 
 ## Purpose of README
 The purpose of this file is to describe the code used to generate datasets used in the tool. 
