@@ -10208,7 +10208,3 @@ output$bar_chart <- renderPlotly({
 })
 ```
 
-<!-- rsconnect::setAccountInfo(name='oahpp', token='F7E919ABD5D2F8128CEFCF0A671DB1F9', secret='JA5D4tqa+r9bDnbkuTuROL+S8ce2m1AIWH0Z8U9U')  -->
-
-<!-- rsconnect::configureApp("Occup_Covid19_App",account = "oahpp", size="xxxlarge") -->
-<!-- sanitize_errors off;disable_protocols xdr-streaming xhr-streaming iframe-eventsource iframe-htmlfile; -->
